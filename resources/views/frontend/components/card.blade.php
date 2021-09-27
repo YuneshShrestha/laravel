@@ -9,5 +9,8 @@
         <p class="card-text">
             @yield('text')
         </p>
+        <div class="card-footer">
+            <p>Done</p>
+        </div>
     </div>
 </div>
